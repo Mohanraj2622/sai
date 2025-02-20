@@ -65,12 +65,6 @@ const SONGS = [
     coverUrl: "https://example.com/cover1.jpg",
   },
   {
-    title: "Achacho",
-    artist: "Sai Abhyankkar",
-    url: "Achacho.mp3",
-    coverUrl: "Katchi Sera.mp3",
-  },
-  {
     title: "Sithira-Puthiri",
     artist: "Sai Abhyankkar",
     url: "Sithira-Puthiri-MassTamilan.dev.mp3",
