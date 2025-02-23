@@ -64,6 +64,13 @@ const SONGS = [
     url: "Benz-In-The-Universe-MassTamilan.dev.mp3",
     coverUrl: "https://example.com/cover1.jpg",
   },
+    {
+    title: "Katchi Sera",
+    artist: "Sai Abhyankkar",
+    url: "Katchi Sera.mp3",
+    coverUrl: "https://example.com/cover1.jpg",
+  },
+  
   {
     title: "Sithira-Puthiri",
     artist: "Sai Abhyankkar",
